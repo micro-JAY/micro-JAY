@@ -7,17 +7,18 @@ I build tools to make noise, aid in the noise-making process/workflow, and help 
 
 - Making music theory easier to see, hear, and explore
 - Building focused  tools that remove small, stubborn bits of friction
-- Connecting my own "educational materials" to useful interfaces, APIs, and creative workflows (warning: I am not a licensed noise instructor!)
+- Programmatic audio rendering with Python, CoreML, and C++
+- Audio for interactive media [(games!)](https://store.steampowered.com/search/?publisher=Salt%20Mines%20Studios)
 - Developing the foundations and core modules for [Tonari Labs](https://tonari.ai)
 
-## Selected projects
+## A sample pack:
 
 ### [Harmony Hash](https://github.com/micro-JAY/harmony_hash)
 
 A chord-progression workbench for piano and guitar, with playable voicings, theory context, and a voice companion for co-writing and learning. Started out as a simple way for me to deal with writers block when it comes up. And well now... 
 * You can describe a harmony/feeling/vibe in natural language
 * You can talk with an AI agent (Hanz Hasher!) to talk through an idea, get improv tips for your scale/progression, and much more
-* SCALES n' MODES 
+* SCALES n' MODES
 [Go play!](https://harmony.tonari.ai)
 
 ### [Tonari Tutor](https://tutor.tonari.ai)
@@ -40,11 +41,6 @@ It is an MCP server that gives your compatible AI assistants deeper access to El
 
 An experiment in reverse sound synthesis, machine learning, and regressive patch matching. The idea: from audio reference -> audio embeddings weighed against rendered  patches, and  be flown directly to settings that get closest to that sound/synth. More to come soon, but you can read about where I'm at with it in my [lab notes](https://lab.tonari.ai)
 
-## Also exploring
-
-- Programmatic audio rendering with Python, CoreML, and C++
-- Reusable design systems for creative applications
-- Audio for interactive media [(games!)](https://store.steampowered.com/search/?publisher=Salt%20Mines%20Studios)
 
 ## Find me
 
